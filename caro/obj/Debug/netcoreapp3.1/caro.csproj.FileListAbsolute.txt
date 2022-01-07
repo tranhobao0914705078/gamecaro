@@ -1,0 +1,17 @@
+D:\C#\caro\caro\bin\Debug\netcoreapp3.1\caro.exe
+D:\C#\caro\caro\bin\Debug\netcoreapp3.1\caro.deps.json
+D:\C#\caro\caro\bin\Debug\netcoreapp3.1\caro.runtimeconfig.json
+D:\C#\caro\caro\bin\Debug\netcoreapp3.1\caro.runtimeconfig.dev.json
+D:\C#\caro\caro\bin\Debug\netcoreapp3.1\caro.dll
+D:\C#\caro\caro\bin\Debug\netcoreapp3.1\caro.pdb
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.Form1.resources
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.Properties.Resources.resources
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.csproj.GenerateResource.cache
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.AssemblyInfoInputs.cache
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.AssemblyInfo.cs
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.csproj.CoreCompileInputs.cache
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.dll
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.pdb
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.genruntimeconfig.cache
+D:\C#\caro\caro\obj\Debug\netcoreapp3.1\caro.csproj.AssemblyReference.cache
